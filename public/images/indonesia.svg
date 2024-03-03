@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="21" viewBox="0 0 28 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b00000;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Indonesia" transform="translate(-424 -39)">
+    <rect id="Rectangle_160" data-name="Rectangle 160" class="cls-1" width="28" height="10.5" transform="translate(424 39)"/>
+    <rect id="Rectangle_161" data-name="Rectangle 161" class="cls-2" width="28" height="10.5" transform="translate(424 49.5)"/>
+  </g>
+</svg>
